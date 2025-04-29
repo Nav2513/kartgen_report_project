@@ -1,0 +1,11 @@
+# Ignore the node_modules folder
+
+node_modules/
+
+# Ignoring .env file (enviroment variable).
+
+.env
+
+# Ignore the test file during devlopment
+
+notes.js
